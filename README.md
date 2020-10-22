@@ -1,4 +1,4 @@
-# A machine Learning method to identify genetic variants potentially associated with Alzheimer’s Disease
+# Machine Learning Method to Identify Genetic Variants Potentially Associated with Alzheimer’s Disease
 
 ## Abstract
 
